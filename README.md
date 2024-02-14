@@ -15,6 +15,6 @@ Project Management: Contains the project brief.
 
 Scripts: Contains all Python scripts used for the analysis.
 
-You can find my tableau story board here. https://public.tableau.com/app/profile/pratham.goswami/viz/UFCAnalysis6_7DataDashboard/Story1
+You can find my tableau story board here. https://public.tableau.com/app/profile/pratham.goswami/viz/UFCAnalysis6_7DataDashboard/Story1#1
 
 

@@ -17,4 +17,4 @@ Scripts: Contains all Python scripts used for the analysis.
 
 You can find my tableau story board here. https://public.tableau.com/app/profile/pratham.goswami/viz/UFCAnalysis6_7DataDashboard/Story1
 
-(Note: The "Data" folder with original and prepared dataframes is not included due to file size constraints.)
+
